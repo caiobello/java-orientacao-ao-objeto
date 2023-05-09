@@ -6,6 +6,9 @@
 ### Dicas para Criar um Atributo:
 ![image](https://user-images.githubusercontent.com/122856066/236991231-1639ef3c-1c23-467f-bc0e-9babc2c910e0.png)<br>
 ![image](https://user-images.githubusercontent.com/122856066/236991614-7f40d491-9f69-42cb-bb1e-48642bb747c0.png)
-
 ### Variável:
 ![image](https://user-images.githubusercontent.com/122856066/236991368-e79a908b-7a56-4813-949e-804d5fe37ede.png)
+### Método:
+### Objeto:
+### Mensagem:
+
