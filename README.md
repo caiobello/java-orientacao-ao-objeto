@@ -24,7 +24,7 @@
 ### Objeto:
 (Criação)
 ![image](https://user-images.githubusercontent.com/122856066/237006574-cdd372f3-c682-4faa-a0db-00a9ded3311f.png)
-(Considerações)
+<br>(Considerações)<br>
 ![image](https://user-images.githubusercontent.com/122856066/237007332-417f18c5-080b-4197-a4ff-cf30b952efbd.png)
 ### Mensagem:
 ![image](https://user-images.githubusercontent.com/122856066/237007445-b0505230-c269-4122-ad88-f4883ad80789.png)
