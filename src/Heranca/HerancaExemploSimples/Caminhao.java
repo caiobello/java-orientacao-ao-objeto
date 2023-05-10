@@ -1,4 +1,4 @@
-package HerancaAssociacaoInterface;
+package Heranca.HerancaExemploSimples;
 
 public class Caminhao extends Veiculo {
 }

@@ -28,3 +28,6 @@
 ![image](https://user-images.githubusercontent.com/122856066/237007332-417f18c5-080b-4197-a4ff-cf30b952efbd.png)
 ### Mensagem:
 ![image](https://user-images.githubusercontent.com/122856066/237007445-b0505230-c269-4122-ad88-f4883ad80789.png)
+
+### Extras de orientação ao objeto:
+![img.png](imgs/img14.png)

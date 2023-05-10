@@ -1,3 +1,4 @@
+# Heranca, associação e interface
 ## Heranca
 A = Subtipo(Classe Filha) de B<br>
 B = Superclass //Classe mais genérica
@@ -11,9 +12,4 @@ Em java:
 ![img.png](../../imgs/img4.png)
 ### Polimorfismo: 
 ![img.png](../../imgs/img5.png)
-### Sobrescrita:
-![img.png](../../imgs/img6.png)
 
-
-## Acociacao
-## Interface
