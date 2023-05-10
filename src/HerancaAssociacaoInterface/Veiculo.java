@@ -1,4 +1,4 @@
 package HerancaAssociacaoInterface;
 
-public class Heranca {
+public abstract class Veiculo {
 }
