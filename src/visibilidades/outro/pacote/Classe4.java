@@ -1,6 +1,6 @@
 package visibilidades.outro.pacote;
 
-import one.digitalinnovation.oo.Classe1;
+import visibilidades.one.digitalinnovation.oo.Classe1;
 
 /**
  * Classe de exemplo para o exercício da Aula 5 de Orientação a Objetos.
